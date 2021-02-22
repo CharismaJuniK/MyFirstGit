@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T11:47:10.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="DnGbxLYE8tFkl53zNlCe" type="github"><diagram id="IXYA-VH4GcHmfqwwmLT4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-22T12:16:44.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Ej_cIfMeIdKxe6OvuBwx" version="14.4.2" type="github" pages="2">
+  <diagram id="IXYA-VH4GcHmfqwwmLT4" name="01 why">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5odKVzJwrmEe3eJST_F9-1" value="What is Docker?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5odKVzJwrmEe3eJST_F9-2" value="Why use Docker?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5odKVzJwrmEe3eJST_F9-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5odKVzJwrmEe3eJST_F9-4" value="Important Questions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZGM-0nwSDhNzPbk_lqMr" name="02-flow">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-0" />
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-1" parent="SJcsf3ZbrBtdSOstvtPI-0" />
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="350" y="110" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="350" y="160" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="350" y="210" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="350" y="260" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="350" y="310" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="350" y="60" width="190" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
