@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T12:16:44.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Ej_cIfMeIdKxe6OvuBwx" version="14.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-22T12:49:54.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="sbejHLpM6NYg8h59ZTuT" version="14.4.2" type="github" pages="3">
   <diagram id="IXYA-VH4GcHmfqwwmLT4" name="01 why">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,23 +24,52 @@
       <root>
         <mxCell id="SJcsf3ZbrBtdSOstvtPI-0" />
         <mxCell id="SJcsf3ZbrBtdSOstvtPI-1" parent="SJcsf3ZbrBtdSOstvtPI-0" />
-        <mxCell id="SJcsf3ZbrBtdSOstvtPI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-2" value="Run Installer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
           <mxGeometry x="350" y="110" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SJcsf3ZbrBtdSOstvtPI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-6" value="Get Error Message During Instalation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
           <mxGeometry x="350" y="160" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SJcsf3ZbrBtdSOstvtPI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-7" value="Troubleshoot Issue" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
           <mxGeometry x="350" y="210" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SJcsf3ZbrBtdSOstvtPI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-8" value="Rerun Installer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
           <mxGeometry x="350" y="260" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SJcsf3ZbrBtdSOstvtPI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-9" value="Get Another Error" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
           <mxGeometry x="350" y="310" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SJcsf3ZbrBtdSOstvtPI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+        <mxCell id="SJcsf3ZbrBtdSOstvtPI-10" value="Download Installer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
           <mxGeometry x="350" y="60" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4TxbbunvJ4bK0wKLfAtJ-0" value="Installing Software" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="390" y="30" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4TxbbunvJ4bK0wKLfAtJ-2" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;" edge="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="60" as="sourcePoint" />
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qqGju3FwmtPXs_5jeaIO-0" value="This is What Docker is Trying to fix" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SJcsf3ZbrBtdSOstvtPI-1">
+          <mxGeometry x="590" y="60" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="t7RdeUDwJyEEnRF3t1-F" name="03-why">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="PiQ4ZxR87ivRTPmtmFsQ-0" />
+        <mxCell id="PiQ4ZxR87ivRTPmtmFsQ-1" parent="PiQ4ZxR87ivRTPmtmFsQ-0" />
+        <mxCell id="eHyTNwWpKLwyNv2ZJlYW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="PiQ4ZxR87ivRTPmtmFsQ-1" source="eHyTNwWpKLwyNv2ZJlYW-0" target="eHyTNwWpKLwyNv2ZJlYW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHyTNwWpKLwyNv2ZJlYW-0" value="Why use Docker?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="PiQ4ZxR87ivRTPmtmFsQ-1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHyTNwWpKLwyNv2ZJlYW-1" value="Docker makes it really easy to install and run software without worrying about setup or dependencies" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="PiQ4ZxR87ivRTPmtmFsQ-1">
+          <mxGeometry x="440" y="200" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
